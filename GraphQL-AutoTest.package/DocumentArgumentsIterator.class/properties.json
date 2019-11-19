@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Iterator",
+	"category" : "GraphQL-AutoTest-mutators",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"document",
+		"fieldNodeIndex",
+		"argumentIndex",
+		"queue",
+		"currentNode"
+	],
+	"name" : "DocumentArgumentsIterator",
+	"type" : "normal"
+}

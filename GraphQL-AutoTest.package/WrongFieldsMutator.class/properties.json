@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "Mutator",
+	"category" : "GraphQL-AutoTest-mutators",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"documentNode",
+		"queryIterator",
+		"currentQuery",
+		"queryMutations",
+		"currentMutationIndex",
+		"mutantQuery",
+		"invalidMutations"
+	],
+	"name" : "WrongFieldsMutator",
+	"type" : "normal"
+}

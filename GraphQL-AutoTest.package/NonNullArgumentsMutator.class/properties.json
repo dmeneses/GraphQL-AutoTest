@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "",
+	"super" : "Mutator",
+	"category" : "GraphQL-AutoTest-mutators",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"documentNode",
+		"queryIterator",
+		"argumentsIterator",
+		"argumentMutations",
+		"argumentMutationIndex",
+		"argumentToMutate",
+		"originalArgumentValue",
+		"currentQueryNode",
+		"executed"
+	],
+	"name" : "NonNullArgumentsMutator",
+	"type" : "normal"
+}
